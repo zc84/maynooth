@@ -28,6 +28,7 @@
       </a>
       <p class="institution">A research project at Maynooth University</p>
       <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#collection">Collection</a>
         <a href="#project">The project</a>
         <a href="#question">The question</a>
         <a href="#people">People</a>
@@ -35,12 +36,13 @@
       <details class="mobile-nav">
         <summary aria-label="Open navigation"><span></span><span></span></summary>
         <nav aria-label="Mobile navigation">
+          <a href="#collection">Collection</a>
           <a href="#project">The project</a>
           <a href="#question">The question</a>
           <a href="#people">People</a>
         </nav>
       </details>
-      <a class="header-link" href="#project">Explore the research <span aria-hidden="true">↗</span></a>
+      <a class="header-link" href="#collection">Explore the collection <span aria-hidden="true">↗</span></a>
     </header>
 
     <main id="main">
@@ -52,7 +54,7 @@
             Before music became a page, it belonged to people. We follow the traces of their shared
             voices across medieval Britain and Ireland.
           </p>
-          <a class="text-link" href="#project">Discover BROKENSONG <span aria-hidden="true">↓</span></a>
+          <a class="text-link" href="#collection">Explore the collection <span aria-hidden="true">↓</span></a>
           <div class="hero-date">
             <span>c. 1150 — c. 1350</span>
             <span class="date-rule"></span>
@@ -86,6 +88,60 @@
           <span class="fact-label">European Research<br />Council grant</span>
         </div>
         <p class="facts-note">A history heard in more than one voice.</p>
+      </section>
+
+      <section class="collection-section" id="collection" aria-labelledby="collection-title">
+        <div class="section-meta">
+          <span>THE DIGITAL EDITION</span>
+          <span>PILOT / 10 RECORDS</span>
+        </div>
+        <div class="collection-heading">
+          <div>
+            <p class="collection-kicker">Search the traces that make a song.</p>
+            <h2 id="collection-title">One work,<br /><em>many witnesses.</em></h2>
+          </div>
+          <p>
+            This working catalogue demonstrates how a composition, its surviving manuscript
+            witnesses and a scholarly edition can remain distinct while still being read together.
+          </p>
+        </div>
+
+        <div class="collection-workbench" data-catalogue>
+          <div class="catalogue-controls">
+            <label class="catalogue-search" for="catalogue-search">
+              <span class="sr-only">Search the pilot collection</span>
+              <span aria-hidden="true">⌕</span>
+              <input id="catalogue-search" type="search" placeholder="Search title, shelfmark, language…" autocomplete="off" />
+            </label>
+            <label class="catalogue-select" for="catalogue-type">
+              <span>Show</span>
+              <select id="catalogue-type">
+                <option value="all">All records</option>
+                <option value="composition">Compositions</option>
+                <option value="manuscript">Manuscripts</option>
+                <option value="edition">Editions</option>
+              </select>
+            </label>
+            <label class="catalogue-select" for="catalogue-notation">
+              <span>Notation</span>
+              <select id="catalogue-notation">
+                <option value="all">Any notation</option>
+                <option value="square">Square notation</option>
+                <option value="mensural">Mensural notation</option>
+                <option value="mixed">Mixed / unknown</option>
+              </select>
+            </label>
+            <button class="clear-filters" type="button" data-clear-filters>Clear filters</button>
+          </div>
+
+          <div class="catalogue-summary" aria-live="polite">
+            <p><span data-result-count>10</span> records in the pilot collection</p>
+            <p>Prototype data — no external records are queried.</p>
+          </div>
+
+          <div class="catalogue-grid" data-catalogue-results></div>
+          <p class="catalogue-empty" data-empty-state hidden>No records match those filters. Try a title, shelfmark, language or notation type.</p>
+        </div>
       </section>
 
       <section class="question-section" id="question" aria-labelledby="question-title">
@@ -253,5 +309,6 @@
       <span>Polyphonic singing &amp; communities of music writing</span>
       <span>Maynooth University, Ireland</span>
     </footer>
+    <script src="app.js" defer></script>
   </body>
 </html>
