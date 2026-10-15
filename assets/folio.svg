@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="830" viewBox="0 0 760 830" fill="none">
+  <defs>
+    <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="4" r=".7" fill="#765E3E" opacity=".16"/>
+      <circle cx="13" cy="12" r=".6" fill="#765E3E" opacity=".12"/>
+    </pattern>
+    <linearGradient id="paper" x1="82" y1="66" x2="694" y2="747" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EBD4"/>
+      <stop offset="1" stop-color="#E3D5B7"/>
+    </linearGradient>
+    <filter id="shadow" x="36" y="16" width="700" height="790" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <path d="M82 76 678 47l26 698-599 35L82 76Z" fill="#82785F" opacity=".18" filter="url(#shadow)"/>
+  <path d="m72 55 605-21 29 709-609 29L72 55Z" fill="url(#paper)" stroke="#C7B894" stroke-width="2"/>
+  <path d="m72 55 605-21 29 709-609 29L72 55Z" fill="url(#grain)" opacity=".8"/>
+  <path d="m100 90 546-19 24 646-550 25-20-652Z" stroke="#AF4936" stroke-width="2" opacity=".58"/>
+  <path d="M127 131h157M127 148h157M127 165h157M127 182h157M127 199h157" stroke="#6F302A" stroke-width="2.5"/>
+  <path d="M305 131h292M305 148h292M305 165h292M305 182h292M305 199h292" stroke="#4F4A3C" stroke-width="2" opacity=".7"/>
+  <path d="M150 144c18-32 26 26 41-3 10-19 17-18 24 4 8 24 19 17 27-5 7-17 16-18 22 2" stroke="#9E382C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M343 136c17-16 31 33 46 9 13-22 23-23 30-1 8 23 19 18 28-2 9-19 18-15 24 5 7 22 20 22 31 0 9-17 18-15 26 3 8 18 18 16 28-4 8-15 20-12 28 6" stroke="#343C33" stroke-width="3.3" stroke-linecap="round"/>
+  <path d="M127 257h468M127 274h468M127 291h468M127 308h468M127 325h468" stroke="#4F4A3C" stroke-width="2" opacity=".66"/>
+  <path d="M158 256v70m0-70c17-18 27 19 41-1m-41 15c17-17 27 20 41 0m-41 15c17-17 27 20 41 0m-41 15c17-17 27 20 41 0" stroke="#9E382C" stroke-width="2.3"/>
+  <path d="M222 267c15-24 29 22 42-3 11-21 22-21 29 3 8 23 20 16 28-3m17-9c17-14 28 32 45 8 13-19 23-20 31 0 8 19 18 15 27-4 8-17 20-16 28 4 8 19 19 17 28-3 9-18 19-13 26 5 8 20 20 14 29-4" stroke="#343C33" stroke-width="3" stroke-linecap="round"/>
+  <path d="M127 382h468M127 399h468M127 416h468M127 433h468M127 450h468" stroke="#4F4A3C" stroke-width="2" opacity=".66"/>
+  <path d="M151 391c20-24 31 21 47-3 15-23 28-19 35 4 7 21 21 17 29-3 9-23 22-19 29 3 8 21 21 17 31-5" stroke="#9E382C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M355 384v76m0-76c14-17 25 15 40-2m-40 17c14-17 25 15 40-2m-40 17c14-17 25 15 40-2m-40 17c14-17 25 15 40-2m-40 17c14-17 25 15 40-2" stroke="#343C33" stroke-width="2.3"/>
+  <path d="M435 393c13-18 23 22 37 2 13-18 24-16 30 4 7 20 18 15 26-3 9-19 20-15 28 3 7 17 18 17 27-1" stroke="#343C33" stroke-width="3" stroke-linecap="round"/>
+  <path d="M127 508h468M127 525h468M127 542h468M127 559h468M127 576h468" stroke="#4F4A3C" stroke-width="2" opacity=".66"/>
+  <path d="M153 514c14-20 26 23 40 1 13-21 25-18 31 3 7 22 19 20 29 0 9-18 20-18 28 3 8 21 20 17 29-2m16 0c14-20 26 23 40 1 13-21 25-18 31 3" stroke="#9E382C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M127 635h468M127 652h468M127 669h468M127 686h468M127 703h468" stroke="#4F4A3C" stroke-width="2" opacity=".66"/>
+  <path d="M162 639c15-20 26 22 41 1 13-20 24-17 31 4 6 19 19 17 28-2 9-19 20-15 27 4 8 20 20 15 30-4" stroke="#343C33" stroke-width="3" stroke-linecap="round"/>
+  <path d="M381 648c13-18 23 22 37 2 13-18 23-16 30 4 7 19 19 15 27-3 8-18 19-15 27 3 8 18 18 17 27-1" stroke="#9E382C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 101c12 1 18 8 20 20m-2 633c17-1 24-8 27-20m500-688c-13 2-19 8-20 20m26 664c-14-1-21-8-22-20" stroke="#A7432D" stroke-width="2"/>
+  <circle cx="610" cy="108" r="8" fill="#A7432D"/>
+  <circle cx="621" cy="108" r="3" fill="#D5E772"/>
+  <text x="127" y="237" fill="#A7432D" font-family="Georgia,serif" font-size="14" font-style="italic">alleluya — a shared breath, preserved</text>
+  <text x="127" y="485" fill="#79715F" font-family="monospace" font-size="10" letter-spacing="2">FRAGMENT / INK / VOICE</text>
+  <text x="128" y="728" fill="#A7432D" font-family="monospace" font-size="10" letter-spacing="2">VISUAL STUDY  ·  C. 1150–1350</text>
+</svg>
