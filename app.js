@@ -186,6 +186,8 @@ if (catalogue) {
       records = [...sources.map((source) => sourceRecord(source, works)), ...works.map((work) => workRecord(work, sources)), ...specialRecords()];
       const notationValues = [...new Set(records.map((record) => record.notation))].sort((a, b) => a.localeCompare(b));
       notation.innerHTML = `<option value="all">Any notation</option>${notationValues.map((value) => `<option value="${html(value)}">${html(value)}</option>`).join("")}`;
+      const requestedType = new URLSearchParams(window.location.search).get("type");
+      if ([...type.options].some((option) => option.value === requestedType)) type.value = requestedType;
       loading.hidden = true;
       renderRecords();
     } catch {

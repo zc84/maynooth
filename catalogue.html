@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f3f0e7" /><meta name="description" content="Browse the BROKENSONG demonstrator catalogue." />
+    <title>Collection — BROKENSONG</title><link rel="icon" type="image/svg+xml" href="assets/monogram.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header"><a class="wordmark" href="index.html" aria-label="BROKENSONG home"><img src="assets/monogram.svg" alt="" width="40" height="40" /><span>BROKEN<br />SONG</span></a><p class="institution">A research project at Maynooth University</p><nav class="desktop-nav" aria-label="Main navigation"><a class="is-current" href="catalogue.html">Collection</a><a href="manuscripts.html">Manuscripts</a><a href="works.html">Works</a><a href="project.html">The project</a></nav><details class="mobile-nav"><summary aria-label="Open navigation"><span></span><span></span></summary><nav aria-label="Mobile navigation"><a href="catalogue.html">Collection</a><a href="manuscripts.html">Manuscripts</a><a href="works.html">Works</a><a href="project.html">The project</a></nav></details><a class="header-link" href="project.html">About the project <span aria-hidden="true">↗</span></a></header>
+    <main id="main">
+      <section class="page-hero page-hero--collection"><div><p class="eyebrow"><span class="eyebrow-dot"></span> Digital scholarly edition</p><h1>One work,<br /><em>many witnesses.</em></h1></div><p>Search the supplied demonstrator across manuscript sources, compositions and editorial interventions. Each record retains its own scholarly status.</p></section>
+      <section class="collection-section collection-section--page" aria-labelledby="collection-title"><div class="section-meta"><span>THE CATALOGUE</span><span>DEMONSTRATOR / 58 RECORDS</span></div><div class="collection-workbench" data-catalogue><div class="catalogue-controls"><label class="catalogue-search" for="catalogue-search"><span class="sr-only">Search the pilot collection</span><span aria-hidden="true">⌕</span><input id="catalogue-search" type="search" placeholder="Search title, shelfmark, language…" autocomplete="off" /></label><label class="catalogue-select" for="catalogue-type"><span>Show</span><select id="catalogue-type"><option value="all">All records</option><option value="composition">Compositions</option><option value="manuscript">Manuscripts</option><option value="edition">Editions</option></select></label><label class="catalogue-select" for="catalogue-notation"><span>Notation</span><select id="catalogue-notation"><option value="all">Any notation</option></select></label><button class="clear-filters" type="button" data-clear-filters>Clear filters</button></div><div class="catalogue-summary" aria-live="polite"><p><span data-result-count>Loading</span> records in the demonstrator</p><p>All manuscript and music assets are synthetic; DIAMM remains link-out only.</p></div><div class="catalogue-grid" data-catalogue-results></div><p class="catalogue-empty" data-empty-state hidden>No records match those filters. Try a title, shelfmark, language or notation type.</p><p class="catalogue-empty" data-load-state>Loading the supplied catalogue assets…</p></div></section>
+    </main>
+    <footer class="site-footer"><a class="footer-mark" href="index.html">BROKENSONG <span>↑</span></a><span>Polyphonic singing &amp; communities of music writing</span><span>Maynooth University, Ireland</span></footer><script src="app.js" defer></script>
+  </body>
+</html>
