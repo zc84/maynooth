@@ -1,0 +1,25 @@
+{
+  "work_id": "WRK-001",
+  "witnesses": [
+    {
+      "source_id": "SRC-001",
+      "mei": "04_mei_score/ave_lumen.mei",
+      "image": "02_iiif_manuscript/images/folio_01_recto.jpg"
+    },
+    {
+      "source_id": "SRC-002",
+      "mei": "06_two_witnesses/ave_lumen_witness_B.mei",
+      "image": "06_two_witnesses/witness_B_folio_01.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "location": "measure 2, cantus, note 2",
+      "kind": "pitch variant"
+    },
+    {
+      "location": "measure 3, cantus, note 3",
+      "kind": "pitch variant"
+    }
+  ]
+}

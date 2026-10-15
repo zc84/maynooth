@@ -1,0 +1,603 @@
+[
+  {
+    "id": "WRK-001",
+    "title": "Ave lumen",
+    "composer": "Unknown",
+    "date": 1320,
+    "language": "Latin",
+    "genre": "motet",
+    "voices": 2,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001",
+      "SRC-002"
+    ],
+    "mei_file": "04_mei_score/ave_lumen.mei",
+    "is_demo": true
+  },
+  {
+    "id": "WRK-002",
+    "title": "Lux matutina (reconstructed)",
+    "composer": "Anonymous (fictional)",
+    "date": 1331,
+    "language": "French",
+    "genre": "chanson",
+    "voices": 3,
+    "notation": "square",
+    "source_ids": [
+      "SRC-003"
+    ],
+    "mei_file": "05_editorial_reconstruction/ave_lumen_reconstruction.mei",
+    "is_demo": true
+  },
+  {
+    "id": "WRK-003",
+    "title": "Lux matutina",
+    "composer": "Anonymous (fictional)",
+    "date": 1342,
+    "language": "Italian",
+    "genre": "mass movement",
+    "voices": 4,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-004",
+    "title": "Salve concordia",
+    "composer": "Anonymous (fictional)",
+    "date": 1353,
+    "language": "English",
+    "genre": "hymn",
+    "voices": 5,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-005",
+    "title": "Cantus demonstrativus 05",
+    "composer": "Unknown",
+    "date": 1364,
+    "language": "German",
+    "genre": "conductus",
+    "voices": 2,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-006",
+    "title": "Cantus demonstrativus 06",
+    "composer": "Anonymous (fictional)",
+    "date": 1375,
+    "language": "Latin",
+    "genre": "ballata",
+    "voices": 3,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-007",
+    "title": "Cantus demonstrativus 07",
+    "composer": "Anonymous (fictional)",
+    "date": 1386,
+    "language": "French",
+    "genre": "motet",
+    "voices": 4,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-008",
+    "title": "Cantus demonstrativus 08",
+    "composer": "Anonymous (fictional)",
+    "date": 1397,
+    "language": "Italian",
+    "genre": "chanson",
+    "voices": 5,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-009",
+    "title": "Cantus demonstrativus 09",
+    "composer": "Unknown",
+    "date": 1408,
+    "language": "English",
+    "genre": "mass movement",
+    "voices": 2,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-010",
+    "title": "Cantus demonstrativus 10",
+    "composer": "Anonymous (fictional)",
+    "date": 1419,
+    "language": "German",
+    "genre": "hymn",
+    "voices": 3,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-011",
+    "title": "Cantus demonstrativus 11",
+    "composer": "Anonymous (fictional)",
+    "date": 1430,
+    "language": "Latin",
+    "genre": "conductus",
+    "voices": 4,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-012",
+    "title": "Cantus demonstrativus 12",
+    "composer": "Anonymous (fictional)",
+    "date": 1441,
+    "language": "French",
+    "genre": "ballata",
+    "voices": 5,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-013",
+    "title": "Cantus demonstrativus 13",
+    "composer": "Unknown",
+    "date": 1452,
+    "language": "Italian",
+    "genre": "motet",
+    "voices": 2,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-014",
+    "title": "Cantus demonstrativus 14",
+    "composer": "Anonymous (fictional)",
+    "date": 1463,
+    "language": "English",
+    "genre": "chanson",
+    "voices": 3,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-015",
+    "title": "Cantus demonstrativus 15",
+    "composer": "Anonymous (fictional)",
+    "date": 1474,
+    "language": "German",
+    "genre": "mass movement",
+    "voices": 4,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-016",
+    "title": "Cantus demonstrativus 16",
+    "composer": "Anonymous (fictional)",
+    "date": 1485,
+    "language": "Latin",
+    "genre": "hymn",
+    "voices": 5,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-017",
+    "title": "Cantus demonstrativus 17",
+    "composer": "Unknown",
+    "date": 1496,
+    "language": "French",
+    "genre": "conductus",
+    "voices": 2,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-018",
+    "title": "Cantus demonstrativus 18",
+    "composer": "Anonymous (fictional)",
+    "date": 1507,
+    "language": "Italian",
+    "genre": "ballata",
+    "voices": 3,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-019",
+    "title": "Cantus demonstrativus 19",
+    "composer": "Anonymous (fictional)",
+    "date": 1518,
+    "language": "English",
+    "genre": "motet",
+    "voices": 4,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-020",
+    "title": "Cantus demonstrativus 20",
+    "composer": "Anonymous (fictional)",
+    "date": 1529,
+    "language": "German",
+    "genre": "chanson",
+    "voices": 5,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-021",
+    "title": "Cantus demonstrativus 21",
+    "composer": "Unknown",
+    "date": 1540,
+    "language": "Latin",
+    "genre": "mass movement",
+    "voices": 2,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-022",
+    "title": "Cantus demonstrativus 22",
+    "composer": "Anonymous (fictional)",
+    "date": 1551,
+    "language": "French",
+    "genre": "hymn",
+    "voices": 3,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-023",
+    "title": "Cantus demonstrativus 23",
+    "composer": "Anonymous (fictional)",
+    "date": 1562,
+    "language": "Italian",
+    "genre": "conductus",
+    "voices": 4,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-024",
+    "title": "Cantus demonstrativus 24",
+    "composer": "Anonymous (fictional)",
+    "date": 1328,
+    "language": "English",
+    "genre": "ballata",
+    "voices": 5,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-025",
+    "title": "Cantus demonstrativus 25",
+    "composer": "Unknown",
+    "date": 1339,
+    "language": "German",
+    "genre": "motet",
+    "voices": 2,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-026",
+    "title": "Cantus demonstrativus 26",
+    "composer": "Anonymous (fictional)",
+    "date": 1350,
+    "language": "Latin",
+    "genre": "chanson",
+    "voices": 3,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-027",
+    "title": "Cantus demonstrativus 27",
+    "composer": "Anonymous (fictional)",
+    "date": 1361,
+    "language": "French",
+    "genre": "mass movement",
+    "voices": 4,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-028",
+    "title": "Cantus demonstrativus 28",
+    "composer": "Anonymous (fictional)",
+    "date": 1372,
+    "language": "Italian",
+    "genre": "hymn",
+    "voices": 5,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-029",
+    "title": "Cantus demonstrativus 29",
+    "composer": "Unknown",
+    "date": 1383,
+    "language": "English",
+    "genre": "conductus",
+    "voices": 2,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-030",
+    "title": "Cantus demonstrativus 30",
+    "composer": "Anonymous (fictional)",
+    "date": 1394,
+    "language": "German",
+    "genre": "ballata",
+    "voices": 3,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-031",
+    "title": "Cantus demonstrativus 31",
+    "composer": "Anonymous (fictional)",
+    "date": 1405,
+    "language": "Latin",
+    "genre": "motet",
+    "voices": 4,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-032",
+    "title": "Cantus demonstrativus 32",
+    "composer": "Anonymous (fictional)",
+    "date": 1416,
+    "language": "French",
+    "genre": "chanson",
+    "voices": 5,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-033",
+    "title": "Cantus demonstrativus 33",
+    "composer": "Unknown",
+    "date": 1427,
+    "language": "Italian",
+    "genre": "mass movement",
+    "voices": 2,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-034",
+    "title": "Cantus demonstrativus 34",
+    "composer": "Anonymous (fictional)",
+    "date": 1438,
+    "language": "English",
+    "genre": "hymn",
+    "voices": 3,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-035",
+    "title": "Cantus demonstrativus 35",
+    "composer": "Anonymous (fictional)",
+    "date": 1449,
+    "language": "German",
+    "genre": "conductus",
+    "voices": 4,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-036",
+    "title": "Cantus demonstrativus 36",
+    "composer": "Anonymous (fictional)",
+    "date": 1460,
+    "language": "Latin",
+    "genre": "ballata",
+    "voices": 5,
+    "notation": "mensural",
+    "source_ids": [
+      "SRC-001"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-037",
+    "title": "Cantus demonstrativus 37",
+    "composer": "Unknown",
+    "date": 1471,
+    "language": "French",
+    "genre": "motet",
+    "voices": 2,
+    "notation": "square",
+    "source_ids": [
+      "SRC-004"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-038",
+    "title": "Cantus demonstrativus 38",
+    "composer": "Anonymous (fictional)",
+    "date": 1482,
+    "language": "Italian",
+    "genre": "chanson",
+    "voices": 3,
+    "notation": "black mensural",
+    "source_ids": [
+      "SRC-007"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-039",
+    "title": "Cantus demonstrativus 39",
+    "composer": "Anonymous (fictional)",
+    "date": 1493,
+    "language": "English",
+    "genre": "mass movement",
+    "voices": 4,
+    "notation": "white mensural",
+    "source_ids": [
+      "SRC-010"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  },
+  {
+    "id": "WRK-040",
+    "title": "Cantus demonstrativus 40",
+    "composer": "Anonymous (fictional)",
+    "date": 1504,
+    "language": "German",
+    "genre": "hymn",
+    "voices": 5,
+    "notation": "neumatic",
+    "source_ids": [
+      "SRC-013"
+    ],
+    "mei_file": null,
+    "is_demo": true
+  }
+]

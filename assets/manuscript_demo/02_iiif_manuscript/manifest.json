@@ -1,0 +1,346 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8000/02_iiif_manuscript/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Codex Aurora (synthetic demonstrator)"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Eight simulated manuscript page images. All contents are fictional."
+    ]
+  },
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "items": [
+    {
+      "id": "http://localhost:8000/iiif/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 1r"
+        ]
+      },
+      "height": 931,
+      "width": 699,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_01_recto.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 168
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/1/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_01_recto.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 699
+              },
+              "target": "http://localhost:8000/iiif/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 1v"
+        ]
+      },
+      "height": 931,
+      "width": 691,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_01_verso.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 166
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/2/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/2/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_01_verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 691
+              },
+              "target": "http://localhost:8000/iiif/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 2r"
+        ]
+      },
+      "height": 931,
+      "width": 699,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_02_recto.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 168
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/3/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/3/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_02_recto.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 699
+              },
+              "target": "http://localhost:8000/iiif/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 2v"
+        ]
+      },
+      "height": 931,
+      "width": 691,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_02_verso.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 166
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/4/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/4/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_02_verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 691
+              },
+              "target": "http://localhost:8000/iiif/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 3r"
+        ]
+      },
+      "height": 931,
+      "width": 699,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_03_recto.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 168
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/5/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/5/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_03_recto.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 699
+              },
+              "target": "http://localhost:8000/iiif/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 3v"
+        ]
+      },
+      "height": 931,
+      "width": 691,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_03_verso.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 166
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/6/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/6/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_03_verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 691
+              },
+              "target": "http://localhost:8000/iiif/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 4r"
+        ]
+      },
+      "height": 931,
+      "width": 699,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_04_recto.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 168
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/7/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/7/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_04_recto.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 699
+              },
+              "target": "http://localhost:8000/iiif/canvas/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8000/iiif/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "f. 4v"
+        ]
+      },
+      "height": 931,
+      "width": 691,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8000/02_iiif_manuscript/images/folio_04_verso.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 225,
+          "width": 166
+        }
+      ],
+      "items": [
+        {
+          "id": "http://localhost:8000/iiif/canvas/8/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8000/iiif/canvas/8/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8000/02_iiif_manuscript/images/folio_04_verso.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 931,
+                "width": 691
+              },
+              "target": "http://localhost:8000/iiif/canvas/8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

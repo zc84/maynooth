@@ -1,0 +1,10 @@
+{
+  "id": "WRK-001",
+  "title": "Ave lumen",
+  "language": "Latin (invented text/title)",
+  "genre": "motet (demonstration)",
+  "voices": 3,
+  "incipit_pitches": "C D E F | G F E D",
+  "mei": "ave_lumen.mei",
+  "historical_status": "fully synthetic example"
+}

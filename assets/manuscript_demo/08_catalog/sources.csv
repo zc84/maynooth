@@ -1,0 +1,16 @@
+﻿date_from,date_to,id,image_asset,is_demo,location,material,notation,repository,shelfmark,title
+1280,1300,SRC-001,02_iiif_manuscript/images/folio_01_recto.jpg,True,Oxford,paper,mensural,Fictional Oxford Music Archive,DEMO-MS-001,Codex Aurora
+1299,1319,SRC-002,06_two_witnesses/witness_B_folio_01.jpg,True,Florence,parchment,square,Fictional Florence Music Archive,DEMO-MS-002,Cantionale Boreale
+1318,1338,SRC-003,,True,Paris,parchment,black mensural,Fictional Paris Music Archive,DEMO-MS-003,Florilegium Fragmenta
+1337,1357,SRC-004,,True,Cambridge,paper,white mensural,Fictional Cambridge Music Archive,DEMO-MS-004,Liber Concordiae
+1356,1376,SRC-005,,True,Utrecht,parchment,neumatic,Fictional Utrecht Music Archive,DEMO-MS-005,Chansonnier Novus
+1375,1395,SRC-006,,True,Prague,parchment,mensural,Fictional Prague Music Archive,DEMO-MS-006,Codex Cantus
+1394,1414,SRC-007,,True,Vienna,paper,square,Fictional Vienna Music Archive,DEMO-MS-007,Music Manuscript 07
+1413,1433,SRC-008,,True,Bologna,parchment,black mensural,Fictional Bologna Music Archive,DEMO-MS-008,Music Manuscript 08
+1432,1452,SRC-009,,True,Oxford,parchment,white mensural,Fictional Oxford Music Archive,DEMO-MS-009,Music Manuscript 09
+1451,1471,SRC-010,,True,Florence,paper,neumatic,Fictional Florence Music Archive,DEMO-MS-010,Music Manuscript 10
+1470,1490,SRC-011,,True,Paris,parchment,mensural,Fictional Paris Music Archive,DEMO-MS-011,Music Manuscript 11
+1489,1509,SRC-012,,True,Cambridge,parchment,square,Fictional Cambridge Music Archive,DEMO-MS-012,Music Manuscript 12
+1508,1528,SRC-013,,True,Utrecht,paper,black mensural,Fictional Utrecht Music Archive,DEMO-MS-013,Music Manuscript 13
+1527,1547,SRC-014,,True,Prague,parchment,white mensural,Fictional Prague Music Archive,DEMO-MS-014,Music Manuscript 14
+1546,1566,SRC-015,,True,Vienna,parchment,neumatic,Fictional Vienna Music Archive,DEMO-MS-015,Music Manuscript 15

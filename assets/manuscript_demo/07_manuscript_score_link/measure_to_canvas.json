@@ -1,0 +1,42 @@
+[
+  {
+    "work_id": "WRK-001",
+    "mei_file": "04_mei_score/ave_lumen.mei",
+    "measure_start": 1,
+    "measure_end": 1,
+    "canvas_id": "__BASE__/iiif/canvas/1",
+    "canvas_label": "f. 1r",
+    "source_id": "SRC-001",
+    "certainty": "demonstration"
+  },
+  {
+    "work_id": "WRK-001",
+    "mei_file": "04_mei_score/ave_lumen.mei",
+    "measure_start": 2,
+    "measure_end": 2,
+    "canvas_id": "__BASE__/iiif/canvas/2",
+    "canvas_label": "f. 1v",
+    "source_id": "SRC-001",
+    "certainty": "demonstration"
+  },
+  {
+    "work_id": "WRK-001",
+    "mei_file": "04_mei_score/ave_lumen.mei",
+    "measure_start": 3,
+    "measure_end": 3,
+    "canvas_id": "__BASE__/iiif/canvas/3",
+    "canvas_label": "f. 2r",
+    "source_id": "SRC-001",
+    "certainty": "demonstration"
+  },
+  {
+    "work_id": "WRK-001",
+    "mei_file": "04_mei_score/ave_lumen.mei",
+    "measure_start": 4,
+    "measure_end": 4,
+    "canvas_id": "__BASE__/iiif/canvas/4",
+    "canvas_label": "f. 2v",
+    "source_id": "SRC-001",
+    "certainty": "demonstration"
+  }
+]

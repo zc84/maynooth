@@ -1,0 +1,41 @@
+﻿composer,date,genre,id,is_demo,language,mei_file,notation,source_ids,title,voices
+Unknown,1320,motet,WRK-001,True,Latin,04_mei_score/ave_lumen.mei,mensural,"SRC-001, SRC-002",Ave lumen,2
+Anonymous (fictional),1331,chanson,WRK-002,True,French,05_editorial_reconstruction/ave_lumen_reconstruction.mei,square,SRC-003,Lux matutina (reconstructed),3
+Anonymous (fictional),1342,mass movement,WRK-003,True,Italian,,black mensural,SRC-007,Lux matutina,4
+Anonymous (fictional),1353,hymn,WRK-004,True,English,,white mensural,SRC-010,Salve concordia,5
+Unknown,1364,conductus,WRK-005,True,German,,neumatic,SRC-013,Cantus demonstrativus 05,2
+Anonymous (fictional),1375,ballata,WRK-006,True,Latin,,mensural,SRC-001,Cantus demonstrativus 06,3
+Anonymous (fictional),1386,motet,WRK-007,True,French,,square,SRC-004,Cantus demonstrativus 07,4
+Anonymous (fictional),1397,chanson,WRK-008,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 08,5
+Unknown,1408,mass movement,WRK-009,True,English,,white mensural,SRC-010,Cantus demonstrativus 09,2
+Anonymous (fictional),1419,hymn,WRK-010,True,German,,neumatic,SRC-013,Cantus demonstrativus 10,3
+Anonymous (fictional),1430,conductus,WRK-011,True,Latin,,mensural,SRC-001,Cantus demonstrativus 11,4
+Anonymous (fictional),1441,ballata,WRK-012,True,French,,square,SRC-004,Cantus demonstrativus 12,5
+Unknown,1452,motet,WRK-013,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 13,2
+Anonymous (fictional),1463,chanson,WRK-014,True,English,,white mensural,SRC-010,Cantus demonstrativus 14,3
+Anonymous (fictional),1474,mass movement,WRK-015,True,German,,neumatic,SRC-013,Cantus demonstrativus 15,4
+Anonymous (fictional),1485,hymn,WRK-016,True,Latin,,mensural,SRC-001,Cantus demonstrativus 16,5
+Unknown,1496,conductus,WRK-017,True,French,,square,SRC-004,Cantus demonstrativus 17,2
+Anonymous (fictional),1507,ballata,WRK-018,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 18,3
+Anonymous (fictional),1518,motet,WRK-019,True,English,,white mensural,SRC-010,Cantus demonstrativus 19,4
+Anonymous (fictional),1529,chanson,WRK-020,True,German,,neumatic,SRC-013,Cantus demonstrativus 20,5
+Unknown,1540,mass movement,WRK-021,True,Latin,,mensural,SRC-001,Cantus demonstrativus 21,2
+Anonymous (fictional),1551,hymn,WRK-022,True,French,,square,SRC-004,Cantus demonstrativus 22,3
+Anonymous (fictional),1562,conductus,WRK-023,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 23,4
+Anonymous (fictional),1328,ballata,WRK-024,True,English,,white mensural,SRC-010,Cantus demonstrativus 24,5
+Unknown,1339,motet,WRK-025,True,German,,neumatic,SRC-013,Cantus demonstrativus 25,2
+Anonymous (fictional),1350,chanson,WRK-026,True,Latin,,mensural,SRC-001,Cantus demonstrativus 26,3
+Anonymous (fictional),1361,mass movement,WRK-027,True,French,,square,SRC-004,Cantus demonstrativus 27,4
+Anonymous (fictional),1372,hymn,WRK-028,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 28,5
+Unknown,1383,conductus,WRK-029,True,English,,white mensural,SRC-010,Cantus demonstrativus 29,2
+Anonymous (fictional),1394,ballata,WRK-030,True,German,,neumatic,SRC-013,Cantus demonstrativus 30,3
+Anonymous (fictional),1405,motet,WRK-031,True,Latin,,mensural,SRC-001,Cantus demonstrativus 31,4
+Anonymous (fictional),1416,chanson,WRK-032,True,French,,square,SRC-004,Cantus demonstrativus 32,5
+Unknown,1427,mass movement,WRK-033,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 33,2
+Anonymous (fictional),1438,hymn,WRK-034,True,English,,white mensural,SRC-010,Cantus demonstrativus 34,3
+Anonymous (fictional),1449,conductus,WRK-035,True,German,,neumatic,SRC-013,Cantus demonstrativus 35,4
+Anonymous (fictional),1460,ballata,WRK-036,True,Latin,,mensural,SRC-001,Cantus demonstrativus 36,5
+Unknown,1471,motet,WRK-037,True,French,,square,SRC-004,Cantus demonstrativus 37,2
+Anonymous (fictional),1482,chanson,WRK-038,True,Italian,,black mensural,SRC-007,Cantus demonstrativus 38,3
+Anonymous (fictional),1493,mass movement,WRK-039,True,English,,white mensural,SRC-010,Cantus demonstrativus 39,4
+Anonymous (fictional),1504,hymn,WRK-040,True,German,,neumatic,SRC-013,Cantus demonstrativus 40,5

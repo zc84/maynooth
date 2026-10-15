@@ -1,0 +1,10 @@
+{
+  "id": "SRC-001",
+  "title": "Codex Aurora",
+  "shelfmark": "DEMO-MS-001",
+  "date": "c. 1280–1300 (fictional)",
+  "description": "Fictional illuminated choir manuscript for end-to-end UI demonstration. Imagery is AI-generated and not a digitisation of a historical source.",
+  "hero": "featured_spread.jpg",
+  "catalog_link": "../08_catalog/sources.json",
+  "manifest": "../02_iiif_manuscript/manifest.json"
+}

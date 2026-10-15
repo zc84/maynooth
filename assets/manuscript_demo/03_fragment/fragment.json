@@ -1,0 +1,19 @@
+{
+  "id": "SRC-003",
+  "title": "Florilegium Fragmenta",
+  "shelfmark": "DEMO-MS-003",
+  "preserved_voices": [
+    "Cantus",
+    "Tenor"
+  ],
+  "missing_voices": [
+    "Contratenor (partial)"
+  ],
+  "condition": [
+    "physical loss at lower edge",
+    "surface abrasion",
+    "discoloured patches"
+  ],
+  "editorial_reconstruction": "05_editorial_reconstruction/ave_lumen_reconstruction.mei",
+  "synthetic": true
+}

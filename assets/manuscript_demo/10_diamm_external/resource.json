@@ -1,0 +1,19 @@
+{
+  "id": "EXT-DIAMM-001",
+  "name": "Yale University, Beinecke Library for Rare Books and Manuscripts",
+  "archive_diamm_id": 418,
+  "diamm_archive_url": "https://www.diamm.ac.uk/archives/418/",
+  "repository_code": "US-NHub",
+  "example_shelfmark": "US-NHub 91 (Mellon Chansonnier)",
+  "external_identifier": "RISM Online institutions/30003156",
+  "attribution": "Digital Image Archive of Medieval Music (DIAMM), University of Oxford",
+  "data_used": [
+    "archive title",
+    "repository code",
+    "public listed shelfmark",
+    "public archive URL",
+    "institution-level RISM identifier"
+  ],
+  "image_reuse": "No DIAMM images copied or redistributed; link-out only.",
+  "status": "externally verified archive landing page, not independently verified source-level record"
+}
